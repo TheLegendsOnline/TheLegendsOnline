@@ -3,7 +3,7 @@
 | Name                     | Legend                             |
 |--------------------------|-------------------------------------------|
 | Ticker                   | LG                                         
-| Supply                   | 77.000.000                                |
+| Total Supply                   | 77.000.000                          |
 | Algo                     | TRC10 - coming soon Trc20, BEP20          |
 | Price                    | $0,05                                     |
 | Total-mining             | 10,150.00                                 |
