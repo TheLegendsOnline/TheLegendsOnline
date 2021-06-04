@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @TheLegendsOnline
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>Legend Detail</h1>
 
-<!---
-TheLegendsOnline/TheLegendsOnline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| Name                     | Legend                             |
+|--------------------------|-------------------------------------------|
+| Ticker                   | LG                                         
+| Supply                   | 77.000.000                                |
+| Algo                     | TRC10 - coming soon Trc20, BEP20          |
+| Price                    | $0,05                                     |
+| Total-mining             | 10,150.00                                 |
+| Token ID                 | 1003787 |
+| Contract Explorer        | <a href="https://tronscan.org/#/token/1003787" target="_blank" style="color: blue;"> View</a>
+| Official website         | <a href="https://www.thelegends.online/" target="_blank" style="color: blue;">view</a>|
+| Official website Mining  | <a href="https://legendmining.online/" target="_blank" style="color: blue;">view</a>|
+| Block explorer           | <a href="https://tronscan.org/#/token/1003787" target="_blank" style="color: blue;">view</a>|
+| Twitter                  | <a href="https://twitter.com/Legend_Online_/" target="_blank" style="color: blue;">view</a>|
+| Facebook                 | <a href="https://www.facebook.com/TheLegends.Online/" target="_blank" style="color: blue;">view</a>|
+| Telegram                 | <a href="https://t.me/legend_online" target="_blank" style="color: blue;">view</a>|
