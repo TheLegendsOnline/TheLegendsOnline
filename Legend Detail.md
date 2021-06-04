@@ -4,7 +4,7 @@
 |--------------------------|-------------------------------------------|
 | Ticker                   | LG                                         
 | Supply                   | 77.000.000                                |
-| Algo                     | TRC10                                     |
+| Algo                     | TRC10 - coming soon Trc20, BEP20          |
 | Total-mining             | 10,150.00                                 |
 | Token ID                 | 1003185 |
 | Contract Explorer        | <a href="https://tronscan.org/#/token/1003787" target="_blank" style="color: blue;"> View</a>
